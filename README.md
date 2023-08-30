@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>HTML Links</h1>
+<h1>Resume</h1>
 
-<p><a href="https://dhiraj73ray.github.io/MyResume/">Visit W3Schools.com!</a></p>
+<p><a href="https://dhiraj73ray.github.io/MyResume/">My Resume</a></p>
 
 </body>
 </html>
