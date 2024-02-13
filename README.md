@@ -1,5 +1,4 @@
 # My Resume
 <a href ="https://dhiraj73ray.github.io/My_Resume.pdf" target="_blank">Resume</a>
 
-![Resume](https://github.com/Dhiraj73Ray/MyResume/assets/120560857/4d274f4d-8817-438b-b8da-1c054a9ed979)
-
+![image](https://github.com/Dhiraj73Ray/MyResume/assets/120560857/6d553388-e517-451d-9cc6-bf0f1058155e)
